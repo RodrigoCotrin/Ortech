@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_mesas"
+        android:enabled="true"
+        android:icon="@drawable/id_mesa"
+        android:title="@string/text_menu2"/>
+
+    <item
+        android:id="@+id/menu_reservas"
+        android:icon="@drawable/id_reserva"
+        android:enabled="true"
+        android:title="@string/text_menu1"/>
+
+    <item
+        android:id="@+id/menu_cardapio"
+        android:enabled="true"
+        android:icon="@drawable/id_cardapio"
+        android:title="@string/text_menu3"/>
+
+    <item
+        android:id="@+id/menu_perfil"
+        android:enabled="true"
+        android:icon="@drawable/id_profile"
+        android:title="@string/text_menu4"/>
+</menu>

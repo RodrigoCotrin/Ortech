@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.InformacoesFuncFragment">
+
+    <RelativeLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/white">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="310dp">
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:background="@color/black" />
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="139dp"
+                        android:layout_height="198dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="-55dp"
+                        android:src="@drawable/barra" />
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="145dp"
+                        android:layout_height="152dp"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="21dp"
+                        android:layout_marginBottom="30dp"
+                        android:src="@drawable/logo" />
+
+                    <ImageButton
+                        android:id="@+id/voltar"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="left"
+                        android:background="@color/black"
+                        android:src="@drawable/baseline_arrow_back_24"/>
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="146dp"
+                        android:layout_height="46dp"
+                        android:layout_gravity="right"
+                        android:layout_marginTop="76dp"
+                        android:layout_marginRight="20dp"
+                        android:layout_marginBottom="78dp"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:text="Conta"
+                        android:textColor="@color/white"
+                        android:textSize="40sp" />
+
+
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="90dp"
+                        app:cardCornerRadius="60dp">
+
+                        <ImageView
+                            android:id="@+id/imgFunc"
+                            android:layout_width="130dp"
+                            android:layout_height="128dp"
+                            android:src="@drawable/img"
+                            android:scaleType="fitXY"/>
+                    </androidx.cardview.widget.CardView>
+                </androidx.cardview.widget.CardView>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="15dp">
+                </LinearLayout>
+
+                <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/montserrat_bold"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/black"
+                    android:text="Identificação"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/identificacao"
+                        android:layout_width="300dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:layout_height="50dp"
+                        android:enabled="false"
+                        android:text="1"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginTop="-8dp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Nome"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                      <EditText
+                        android:id="@+id/txtNome"
+                        android:layout_width="300dp"
+                        android:fontFamily="@font/montserrat_regular"
+                        android:layout_height="50dp"
+                        android:enabled="false"
+                        android:text="Théo Littig Tesch Barbosa"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginTop="-8dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="CPF"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtCPF"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="11111111111"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Data Nascimento"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtData"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="10/10/20"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"
+                            android:inputType="date"/>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Email"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtEmail"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="joao.souza@gmail.com"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"
+                            android:inputType="textEmailAddress"/>
+
+                        <ImageButton
+                            android:id="@+id/changeEmail"
+                            android:layout_width="40dp"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginLeft="-20dp"
+                            android:src="@drawable/baseline_edit_24"
+                            android:background="@color/nada"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Telefone"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtTelefone"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="11328818418"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"
+                            android:inputType="phone"/>
+
+                        <ImageButton
+                            android:id="@+id/changeTelefone"
+                            android:layout_width="40dp"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginLeft="-20dp"
+                            android:src="@drawable/baseline_edit_24"
+                            android:background="@color/nada"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Endereço"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtEndereco"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="Rua Das Arapongas"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+
+                        <ImageButton
+                            android:id="@+id/changeEndereco"
+                            android:layout_width="40dp"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginLeft="-20dp"
+                            android:src="@drawable/baseline_edit_24"
+                            android:background="@color/nada"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Cargo"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtCargo"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="Garçom"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Turno"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtTurno"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="Tarde"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Sexo"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtSexo"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="Masculino"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:textSize="20dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"
+                        android:text="Senha"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/txtSenha"
+                            android:layout_width="300dp"
+                            android:fontFamily="@font/montserrat_regular"
+                            android:layout_height="50dp"
+                            android:enabled="false"
+                            android:text="12345678"
+                            android:layout_marginLeft="18dp"
+                            android:layout_marginTop="-8dp"/>
+
+                        <ImageButton
+                            android:id="@+id/changeSenha"
+                            android:layout_width="40dp"
+                            android:layout_height="30dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginLeft="-20dp"
+                            android:src="@drawable/baseline_edit_24"
+                            android:background="@color/nada"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    app:cardCornerRadius="50dp">
+                    <Button
+                        android:id="@+id/salvarAlteraçoes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Salvar Alterações"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:backgroundTint="@color/black"
+                        android:visibility="invisible"/>
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</FrameLayout>
