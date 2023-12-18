@@ -1,0 +1,31 @@
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe.config
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.pdb
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Form1.resources
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Properties.Resources.resources
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.exe
+C:\Users\Pichau\source\repos\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.pdb
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe.config
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.pdb
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csprojAssemblyReference.cache
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Form1.resources
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Properties.Resources.resources
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.GenerateResource.cache
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.CoreCompileInputs.cache
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.exe
+C:\Users\Lab 23T\Desktop\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.pdb
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe.config
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.exe
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\bin\Debug\CarregarImagens.pdb
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.AssemblyReference.cache
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Form1.resources
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.Properties.Resources.resources
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.GenerateResource.cache
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.csproj.CoreCompileInputs.cache
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.exe
+C:\Users\cdefl\Downloads\CarregarImagens\CarregarImagens\obj\Debug\CarregarImagens.pdb
