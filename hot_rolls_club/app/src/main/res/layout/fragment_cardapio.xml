@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".fragments.CardapioFragment">
+
+    <RelativeLayout
+        android:id="@+id/fram2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/nada">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/nada">
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:background="@drawable/back_cardapio"/>
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="125dp"
+                        android:layout_height="190dp"
+                        android:layout_gravity="center"
+                        android:layout_marginBottom="3dp"
+                        android:src="@drawable/barra" />
+
+                    <TextView
+                        android:id="@+id/numero_mesa1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="46dp"
+                        android:layout_gravity="left"
+                        android:layout_marginTop="85dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="78dp"
+                        android:fontFamily="@font/montserrat_bold"
+                        android:text="Cardápio"
+                        android:textColor="@color/white"
+                        android:textSize="31sp" />
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.appcompat.widget.SearchView
+                    android:id="@+id/searchView"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="25sp"
+                    android:background="@drawable/search_edit_background"
+                    android:drawableStart="@android:drawable/ic_menu_search"
+                    android:drawablePadding="2.5sp"
+                    android:ems="10"
+                    android:hint="O que você vai comer hoje?"
+                    android:inputType="text"
+                    android:paddingStart="20dp"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@color/nada"
+                    android:elevation="10dp">
+
+                    <HorizontalScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fillViewport="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@color/nada"
+                            android:orientation="horizontal">
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/todos"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_enabled"
+                                android:elevation="100dp"
+                                android:text="Todos"
+                                android:textColor="@color/dark_gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/sushi"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Sushi"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/yakisoba"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Yakissoba"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/bebidas"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Bebidas"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/robata"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="100dp"
+                                android:text="Robata"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/temaki"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="100dp"
+                                android:text="Temaki"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/tempura"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Tempurá"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/sashimi"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Sashimi"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                            <androidx.appcompat.widget.AppCompatButton
+                                android:id="@+id/nigiri"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginHorizontal="10dp"
+                                android:layout_marginTop="5dp"
+                                android:textStyle="bold"
+                                android:layout_marginBottom="10dp"
+                                android:background="@drawable/bg_button_disabled"
+                                android:elevation="10dp"
+                                android:text="Nigiri"
+                                android:textColor="@color/gray"
+                                android:textSize="15sp" />
+
+                        </LinearLayout>
+                    </HorizontalScrollView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="@color/white">
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/recycler"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:layout_marginTop="10dp"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hot_rolls_club</string>
+    <string name="text_menu1">Cardapio</string>
+    <string name="text_menu2">Inicio</string>
+    <string name="text_menu3">Carrinho</string>
+    <string name="text_menu4">Conta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
