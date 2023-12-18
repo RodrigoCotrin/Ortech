@@ -1,0 +1,91 @@
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe.config
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.pdb
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.AssemblyReference.cache
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Form1.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Properties.Resources.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmInicial.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.GenerateResource.cache
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.exe
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.pdb
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CopyComplete
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmLogin.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmEstoque.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmFuncionarios.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmHistoricoPedidos.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmPedidos.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmReservas.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCarrega.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCadastroFuncionarios.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe.config
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.AssemblyReference.cache
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Form1.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Properties.Resources.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCadastroFuncionarios.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCarrega.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmEstoque.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmFuncionarios.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmHistoricoPedidos.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmInicial.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmLogin.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmPedidos.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmReservas.resources
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.GenerateResource.cache
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CopyComplete
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.exe
+C:\Users\rapha\Downloads\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe.config
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.exe
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\TCC-appDesktopHRC.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csprojAssemblyReference.cache
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Form1.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Properties.Resources.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCadastroFuncionarios.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCarrega.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmEstoque.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmFuncionarios.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmHistoricoPedidos.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmInicial.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmLogin.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmPedidos.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmReservas.resources
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.GenerateResource.cache
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CoreCompileInputs.cache
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.csproj.CopyComplete
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.exe
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC-appDesktopHRC.pdb
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lab 23T\Desktop\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmProdutos.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmProdutos.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCadastroFornecedores.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmCadastroInsumos.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\OxyPlot.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\PdfSharp.Charting.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\PdfSharp.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\OxyPlot.xml
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\PdfSharp.xml
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\PdfSharp.Charting.xml
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmHistoricoMesa.resources
+C:\Users\rapha\OneDrive\Documentos\DESKTOP-APP\APP-DESKTOP\TCC-appDesktopHRC\TCC-appDesktopHRC\obj\Debug\TCC_appDesktopHRC.Telas.FrmMesaReserva.resources
